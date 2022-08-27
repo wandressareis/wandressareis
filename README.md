@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Wandressa Reis</h1>
-<h3 align="Estudante de ciência da computação, pela Universidade Federal de Roraima">I'm </h3>
+<h3 align="">Estudante de ciência da computação, pela Universidade Federal de Roraima </h3>
 
 - 📫 How to reach me **reiswandressa@gmail.com**
 
