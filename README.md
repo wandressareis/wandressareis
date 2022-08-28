@@ -1,6 +1,9 @@
 <h1 align="center">Oi 👋, eu sou Wandressa Reis</h1>
 <h3 align="center">📚Estudante de Ciência da Computação 💻 pela Universidade Federal de Roraima </h3>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/94376190/187086521-d029cec7-decb-4d60-b59d-675960c5d982.png" width="150"/>
+</div>
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
