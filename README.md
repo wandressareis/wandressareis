@@ -1,8 +1,6 @@
 <h1 align="center">Oi 👋, eu sou Wandressa Reis</h1>
 <h3 align="center">📚Estudante de Ciência da Computação 💻 pela Universidade Federal de Roraima </h3>
 
-- 📫 Fale comigo **reiswandressa@gmail.com**
-
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
 <a href="https://twitter.com/wandressa_reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wandressa_reis" height="30" width="40" /></a>
