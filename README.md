@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/94376190/187088254-cd3d96af-e50f-46fa-b062-13592367226e.gif" width="150"/>
 </div>
 
-<h3 align="left">Se conecte comigo:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://twitter.com/wandressa_reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wandressa_reis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wandressa reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wandressa reis" height="30" width="40" /></a>
