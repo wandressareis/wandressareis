@@ -1,9 +1,8 @@
-<h2 align="center">Hi👋🏻, I'm Wandressa Reis</h2>
-<h3 align="center">Computer Science Student💻📚 at <a href="https://ufrr.br/">Universidade Federal de Roraima</a></h3>
 <div align="center">
-<h3 align="center">From Brazil 🌎</h3>
   <img src="https://user-images.githubusercontent.com/94376190/187088254-cd3d96af-e50f-46fa-b062-13592367226e.gif" width="150"/>
 </div>
+<h2 align="center">Hi, I'm Wandressa Reis</h2>
+<h3 align="center">Computer Science Student at <a href="https://ufrr.br/">Universidade Federal de Roraima</a></h3>
 
 <h3 align="left">Connect with me📲:</h3>
 <p align="left">
