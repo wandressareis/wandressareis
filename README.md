@@ -22,6 +22,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandressareis&show_icons=true&theme=radical" width="400"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandressareis&layout=compact&langs_count16&theme=radical" alt="https://github.com/wandressareis/github-readme-stats" width="400"/>
 </div>
-  
 
   ![snake gif](https://github.com/wandressareis/wandressareis/blob/output/github-contribution-grid-snake.svg)
