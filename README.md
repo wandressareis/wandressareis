@@ -13,14 +13,6 @@
       <a href="https://discord.gg/https://discord.gg/9yVdwyw3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9yVdwyw3" height="30" width="40" /></a>
   </p>
 </div>
-<br>
-<br>
-<div align="center"> 
-  <h3 align="left"> My work statistics 📊</h3>
-  <br>
-  <a href="https://github.com/wandressareis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandressareis&show_icons=true&theme=radical" width="400"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandressareis&layout=compact&langs_count16&theme=radical" alt="https://github.com/wandressareis/github-readme-stats" width="400"/>
-</div>
+
 
   ![snake gif](https://github.com/wandressareis/wandressareis/blob/output/github-contribution-grid-snake.svg)
