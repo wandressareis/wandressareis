@@ -1,9 +1,9 @@
 <div>
   <img align="right" height "180em" src="https://user-images.githubusercontent.com/94376190/187088254-cd3d96af-e50f-46fa-b062-13592367226e.gif" width="150"/>
   <h2 align="left">🎬 Hello! I'm Wandressa Reis 👸🏻</h2>
-  <h3 align="left">⚜️ Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
-  <h3 align="left">⚜️ Love Music 🎻🎸🎙️</h3>
-  <h3 align="left">⚜️ Love Sports 🛼🤸🏻‍♂️ </h3>
+  <h3 align="left"> Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
+  <h3 align="left"> Love Music 🎻🎸🎙️</h3>
+  <h3 align="left"> Love Sports 🛼🤸🏻‍♂️ </h3>
   <br>
   <h3 align="left">Connect with me 📲</h3>
     <p align="left">
