@@ -1,9 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Wandressa+Reis;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=ff91a4&repeat=false&width=450&height=100&lines=Hi!+I'm+Wandressa+Reis;Welcome!)](https://git.io/typing-svg)
 <br>
 <br>
+
 <div>
   <img align="right" height "180em" src="https://user-images.githubusercontent.com/94376190/187088254-cd3d96af-e50f-46fa-b062-13592367226e.gif" width="150"/>
-  <h3 align="left"> Computer Science Student at <a href="https://ufrr.br/">UFRR 👩🏻‍💻</a></h3>
+</div>
+
+## 👩🏻‍💻 _Computer Science Student at_ <a href="https://ufrr.br/"> UFRR </a>
+  
 <br>
 <br>
 <br>  
@@ -11,7 +15,6 @@
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wandressareis&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="wandressa reis github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandressareis&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
   
   <h3 align="left">Connect with me 📲</h3>
     <p align="left">
