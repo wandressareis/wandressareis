@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b13583&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=b13583&width=450&height=100&lines=Hello!👋🏻;I'm+Wandressa+Reis;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=ff91a4&width=450&height=100&lines=Hello!👋🏻;I'm+Wandressa+Reis;Welcome!)](https://git.io/typing-svg)
 <br>
 
 <div>
@@ -23,13 +23,14 @@
 ### _Work Stats_ 📊
 
   <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wandressareis&show_icons=true&count_private=true&hide_border=true&title_color=b13583&icon_color=b13583&text_color=c9d1d9&bg_color=0d1117" alt="wandressa reis github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandressareis&layout=compact&hide_border=true&title_color=b13583&text_color=b13583&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wandressareis&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="wandressa reis github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandressareis&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
   </div>
   
 <p align="center">
   <img src="https://github.com/wandressareis/wandressareis/blob/output/github-contribution-grid-snake.svg">
 </p
   
- <br>
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b13583&height=120&section=footer"/> 
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
