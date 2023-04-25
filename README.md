@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=ff91a4&width=450&height=100&lines=Hello!👋🏻;I'm+Wandressa+Reis;Welcome!)](https://git.io/typing-svg)
 <br>
 
@@ -30,7 +28,3 @@
 <p align="center">
   <img src="https://github.com/wandressareis/wandressareis/blob/output/github-contribution-grid-snake.svg">
 </p
-  
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
