@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=ff91a4&width=450&height=100&lines=Hi!;I'm+Wandressa+Reis;Welcome!)](https://git.io/typing-svg)
-<br>
 
 <div>
   <img align="right" height "180em" src="https://user-images.githubusercontent.com/94376190/187088254-cd3d96af-e50f-46fa-b062-13592367226e.gif" width="150"/>
