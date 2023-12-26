@@ -6,7 +6,6 @@
 ## Cientista da Computação em Formação - <a href="https://ufrr.br/"> UFRR </a>
 
 <br><br/>
-<br><br/>
 <br></br>
 
 <div align="center">  
